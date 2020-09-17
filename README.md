@@ -52,5 +52,6 @@ Below shows the logarithmic cumulative return of ESG scholar alpha.
 
 
 This repository refers to the codes for ICAIF-2020 paper.
+
 If you want to cite our paper, the reference format is as follows:
-Qian Chen and Xiao-Yang Liu. 2020. Quantifying ESG Alpha in Scholar Big Data: An Automated Machine Learning Approach. In ICAIF ’20: ACM International Conference on AI in Finance, Oct. 15–16, 2020, Manhattan, NY. ACM, New York, NY, USA.
+[Qian Chen and Xiao-Yang Liu. 2020. Quantifying ESG Alpha in Scholar Big Data: An Automated Machine Learning Approach. In ICAIF ’20: ACM International Conference on AI in Finance, Oct. 15–16, 2020, Manhattan, NY. ACM, New York, NY, USA.]
